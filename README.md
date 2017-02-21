@@ -7,3 +7,5 @@ But now you are fine. With this Photo Organizer, you can easily tag the name of 
 You may choose to run it in shell, or it also has a nicely designed GUI for you to use.
 
 Enjoy the world with your camera without messy!
+
+To run the GUI, run the PhotoRenamer.java under PhotoRenamer folder.
